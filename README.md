@@ -1,2 +1,2 @@
-# Project1
-Random digital art
+# Digital Art
+Krita/Photoshop
